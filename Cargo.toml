@@ -1,0 +1,16 @@
+[workspace]
+
+[package]
+name = "readme-to-rs"
+version = "0.0.1"
+edition = "2021"
+description = "OpenRuno: READMEの内容をRustのドキュメントコメント付きモジュール(.rs)へ変換するツール"
+license = "MPL-2.0"
+
+[[bin]]
+name = "readme-to-rs"
+path = "src/main.rs"
+
+[lib]
+name = "readme_to_rs"
+path = "src/lib.rs"
