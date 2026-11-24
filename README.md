@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # readme-to-rs
 
 open-runoシリーズ。READMEフォルダー(または単一のREADME.md)をアップロード/指定すると、
