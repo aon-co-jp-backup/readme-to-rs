@@ -1,3 +1,3 @@
 source: aon-co-jp/readme-to-rs
-commit: bb9b1f0fd173f5218e1e8d68d0e7e16ac15cea7f
-updated: 2026-11-27T06:05:17Z
+commit: f224b3207fb60e64322eb562a4546c0633d67d73
+updated: 2026-11-27T06:10:50Z
